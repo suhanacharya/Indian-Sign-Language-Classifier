@@ -11,12 +11,8 @@ Testing out and learning how to create and classify datasets using CNN.
 
 ### Todo List
 
-[x] Collect/ Create Hand signs Data
-
-[x] Build Static sign Classifier
-
-[ ] Build a Response Image with the letter on the input image
-
-[ ] Create GUI
-
-[ ] Add ability to add more data and transfer Learning
+- [x] Collect/ Create Hand signs Data
+- [x] Build Static sign Classifier
+- [ ] Build a Response Image with the letter on the input image
+- [ ] Create GUI
+- [ ] Add ability to add more data and transfer Learning
